@@ -1,4 +1,4 @@
-# Magic Square Kata in F#
+# Magic Square Kata in F&#35;
 
 ##When?
 
