@@ -2,7 +2,7 @@
 
 ##When?
 
-This is from TFL CT Kata Club on 27/07/2016.
+This is from Kata Club on 27/07/2016.
 
 ##What?
 
