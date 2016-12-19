@@ -6,7 +6,7 @@ This is from Kata Club on 27/07/2016.
 
 ##What?
 
-It's a basic implimentation of a 3x3 Magic Square checker (https://en.wikipedia.org/wiki/Magic_square). It will only work on 3x3 squares at present as the row value has been hard coded.
+It's a basic implimentation of a 3x3 Magic Square checker (https://en.wikipedia.org/wiki/Magic_square).
 
 Look in [Program.fs](MagicSquareKata/Program.fs) as this is where action is.
 
